@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sapo
+comment0.text=\n\ Classe\ do\ personagem\ principal\ do\ jogo,\ o\ sapo\ que\ ter\u00E1\ a\ miss\u00E3o\ de\ comer\ as\ borboletas\ para\ se\ alimentar\ e\ passar\ de\ fase\ para\ derrotar\ o\ chef\u00E3o\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Sapo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2
