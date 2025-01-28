@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Boss
+comment1.params=placar
+comment1.target=Boss(Placar)
+comment2.params=dano
+comment2.target=void\ receberDano(int)
+comment3.params=
+comment3.target=int\ getVidaBoss()
+comment4.params=
+comment4.target=boolean\ estaVivo()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ dispararMiniAranha()
+comment7.params=
+comment7.target=void\ moverAleatoriamente()
+numComments=8

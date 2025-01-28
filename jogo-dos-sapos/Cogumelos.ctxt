@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cogumelos
+comment0.text=\n\ Superclasse\ para\ cogumelos.\n
+comment1.params=duracao
+comment1.target=Cogumelos(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=sapo\ boss
+comment3.target=void\ efeito(Sapo,\ Boss)
+comment3.text=\n\ M\u00E9todo\ abstrato\ para\ ser\ implementado\ pelos\ cogumelos\ espec\u00EDficos.\n
+numComments=4

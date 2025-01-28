@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TelaInicial
+comment0.text=\n\ Tela\ inicial\ do\ Jogo\ dos\ Sapos.\n\ \n\ @author\ Jonathan\ Martins\ Cabral\ /\ Caio\ C\u00E9sar\ da\ Rocha\ \n\ @version\ 10/12/2024\n
+comment1.params=
+comment1.target=TelaInicial()
+comment2.params=
+comment2.target=void\ prepararTela()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

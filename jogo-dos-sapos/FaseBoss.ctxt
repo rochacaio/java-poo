@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FaseBoss
+comment0.text=\n\ Segunda\ fase\ do\ jogo,\ onde\ o\ jogador\ enfrenta\ o\ Boss.\n
+comment1.params=placar
+comment1.target=FaseBoss(Placar)
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ verificarEstadoJogo()
+comment5.params=venceu
+comment5.target=void\ finalizarJogo(boolean)
+comment5.text=\n\ Finaliza\ o\ jogo\ e\ exibe\ a\ tela\ final.\n\ \n\ @param\ venceu\ Indica\ se\ o\ jogador\ venceu\ ou\ perdeu.\n
+comment6.params=
+comment6.target=void\ gerarCogumelos()
+numComments=7

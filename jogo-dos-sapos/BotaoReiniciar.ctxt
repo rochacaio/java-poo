@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BotaoReiniciar
+comment0.text=\n\ Bot\u00E3o\ que\ reinicia\ o\ jogo.\n
+comment1.params=
+comment1.target=BotaoReiniciar()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

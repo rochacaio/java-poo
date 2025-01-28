@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bosque
+comment0.text=\n\ Bosque\ onde\ a\ saga\ do\ sapo\ se\ inicia.\n\ \n\ @author\ Jonathan\ Martins\ Cabral\ /\ Caio\ C\u00E9sar\ \n\ @version\ 10/12/2024\n
+comment1.params=
+comment1.target=Bosque()
+comment1.text=\n\ Construtor\ de\ objetos\ do\ Bosque.\ \n\ Inicializa\ o\ ambiente\ de\ jogo.\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\n\ M\u00E9todo\ que\ prepara\ o\ mundo\ inicial.\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ M\u00E9todo\ chamado\ a\ cada\ frame\ do\ jogo.\n
+comment4.params=
+comment4.target=void\ criarBorboleta()
+comment4.text=\n\ Cria\ uma\ nova\ borboleta\ em\ uma\ posi\u00E7\u00E3o\ aleat\u00F3ria\ no\ mundo.\n
+comment5.params=
+comment5.target=void\ criarAranha()
+comment5.text=\n\ Cria\ a\ aranha\ no\ mundo\ e\ toca\ o\ som\ correspondente.\n
+comment6.params=
+comment6.target=void\ removerTodasBorboletas()
+comment6.text=\n\ Remove\ todas\ as\ borboletas\ existentes\ no\ mundo.\n
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MiniBorboleta
+comment0.text=\n\ Classe\ para\ representar\ as\ mini\ borboletas\ disparadas\ pelo\ sapo.\n
+comment1.params=
+comment1.target=MiniBorboleta()
+comment1.text=\n\ Construtor\ da\ MiniBorboleta.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ M\u00E9todo\ principal\ da\ mini\ borboleta\ (executado\ a\ cada\ frame).\n\ Move\ a\ mini\ borboleta\ para\ frente\ e\ verifica\ colis\u00F5es.\n
+numComments=3

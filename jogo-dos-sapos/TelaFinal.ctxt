@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TelaFinal
+comment0.text=\n\ Tela\ de\ fim\ de\ jogo\ que\ exibe\ o\ resultado\ (vit\u00F3ria/derrota),\ pontua\u00E7\u00E3o\ e\ dura\u00E7\u00E3o\ da\ partida.\n
+comment1.params=venceu\ placar\ tempoTotal
+comment1.target=TelaFinal(boolean,\ Placar,\ long)
+comment1.text=\n\ Construtor\ da\ tela\ final.\n\ \n\ @param\ venceu\ Indica\ se\ o\ jogador\ venceu\ ou\ perdeu.\n\ @param\ placar\ Refer\u00EAncia\ ao\ placar\ do\ jogo\ para\ exibir\ pontua\u00E7\u00F5es.\n\ @param\ tempoTotal\ Tempo\ total\ de\ jogo\ em\ milissegundos.\n
+comment2.params=
+comment2.target=void\ desenharFundo()
+comment2.text=\n\ Desenha\ o\ fundo\ da\ tela\ com\ uma\ cor\ agrad\u00E1vel.\n
+comment3.params=
+comment3.target=void\ mostrarInformacoes()
+comment3.text=\n\ Mostra\ as\ informa\u00E7\u00F5es\ do\ fim\ de\ jogo\ com\ estilos\ mais\ bonitos.\n
+comment4.params=
+comment4.target=void\ adicionarBotaoReiniciar()
+comment4.text=\n\ Adiciona\ um\ bot\u00E3o\ para\ reiniciar\ o\ jogo.\n
+comment5.params=texto\ tamanho\ corTexto\ corSombra
+comment5.target=greenfoot.GreenfootImage\ criarTextoEstilizado(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color)
+comment5.text=\n\ Cria\ um\ texto\ estilizado\ com\ sombra\ para\ melhor\ visualiza\u00E7\u00E3o.\n\ \n\ @param\ texto\ O\ texto\ a\ ser\ exibido.\n\ @param\ tamanho\ O\ tamanho\ da\ fonte.\n\ @param\ corTexto\ A\ cor\ do\ texto.\n\ @param\ corSombra\ A\ cor\ da\ sombra.\n\ @return\ Uma\ imagem\ do\ texto\ estilizado.\n
+numComments=6

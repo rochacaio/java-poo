@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Borboleta
+comment0.text=\n\ As\ salvadoras\ do\ nosso\ querido\ e\ amado\ sapo\!\n\ Essa\ classe\ \u00E9\ as\ borboletas\ que\ fortalecem\ o\ sapo\ para\ combater\ a\ aranha\n\ \n\ @author\ Jonathan\ Martins\ Cabral\ /\ Caio\ C\u00E9sar\ da\ Rocha\ \n\ @version\ 10/12/2024\n
+comment1.params=placar
+comment1.target=Borboleta(Placar)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ tomarLinguada()
+numComments=4

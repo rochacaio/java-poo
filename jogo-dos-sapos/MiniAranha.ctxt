@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MiniAranha
+comment0.text=\n\ Mini\ aranha\ disparada\ pelo\ Boss.\n
+comment1.params=direcao
+comment1.target=MiniAranha(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ atingirSapo()
+comment3.text=\n\ M\u00E9todo\ que\ verifica\ se\ existe\ sapo\ no\ mundo\ para\ ser\ atingindo\n\ caso\ exista\ ele\ reduz\ a\ vida\ dele,\ caso\ contr\u00E1rio\ ele\ finaliza\ o\ mundo\n
+numComments=4

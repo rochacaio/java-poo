@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Som
+comment1.params=
+comment1.target=Som()
+comment2.params=nome\ arquivo
+comment2.target=void\ adicionarSom(java.lang.String,\ java.lang.String)
+comment3.params=nome
+comment3.target=void\ tocarSom(java.lang.String)
+comment4.params=nome
+comment4.target=void\ pararSom(java.lang.String)
+comment5.params=nome\ volume
+comment5.target=void\ ajustarVolume(java.lang.String,\ int)
+comment6.params=
+comment6.target=void\ pararTodosOsSons()
+numComments=7

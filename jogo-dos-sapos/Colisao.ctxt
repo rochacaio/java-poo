@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Colisao
+comment0.text=\r\n\ Classe\ gen\u00E9rica\ para\ gerenciar\ colis\u00F5es\ entre\ objetos.\r\n\ Superclasse\ de\ Aranha\ e\ Borboleta.\r\n\ \r\n\ @author\ Jonathan\ Martins\ Cabral\r\n\ @version\ 10/12/2024\r\n
+comment1.params=
+comment1.target=void\ inicializar()
+comment1.text=\r\n\ Inicializa\ o\ objeto\ e\ define\ como\ vivo.\r\n
+comment2.params=
+comment2.target=boolean\ estaViva()
+comment2.text=\r\n\ Retorna\ se\ o\ objeto\ est\u00E1\ vivo.\r\n\ @return\ true\ se\ est\u00E1\ vivo,\ false\ caso\ contr\u00E1rio.\r\n
+comment3.params=alvo\ distanciaMaxima
+comment3.target=boolean\ verificarColisao(java.lang.Class,\ int)
+comment3.text=\r\n\ Verifica\ se\ houve\ colis\u00E3o\ com\ um\ objeto\ espec\u00EDfico.\r\n\ \r\n\ @param\ alvo\ Classe\ do\ objeto\ alvo\ da\ colis\u00E3o.\r\n\ @param\ distanciaMaxima\ Dist\u00E2ncia\ m\u00E1xima\ para\ considerar\ colis\u00E3o.\r\n\ @return\ true\ se\ houve\ colis\u00E3o,\ false\ caso\ contr\u00E1rio.\r\n
+numComments=4
