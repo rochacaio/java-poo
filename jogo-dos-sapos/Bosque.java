@@ -34,7 +34,7 @@ public class Bosque extends World
     {
         // Inicializa os placares: um para pontuação e outro para o tempo
         placar = new Placar(false, 0);          // Placar que exibe pontuações
-        placar_tempo = new Placar(true, 40);   // Placar que exibe o tempo restante da fase
+        placar_tempo = new Placar(true, 20);   // Placar que exibe o tempo restante da fase
 
         // Adiciona os placares ao mundo em posições específicas
         addObject(placar, 110, 20); // Coloca o placar no canto superior esquerdo
@@ -76,8 +76,8 @@ public class Bosque extends World
 
         contadorTempo++; // Incrementa o contador total de tempo em frames
 
-        // Após 40 segundos (2000 frames em 50 FPS), as borboletas param de aparecer e a aranha surge
-        if (contadorTempo >= 4000) {
+        // Após 20 segundos (2000 frames em 50 FPS), as borboletas param de aparecer e a aranha surge
+        if (contadorTempo >= 2000) {
             criarBorboletas = false; // Para de criar novas borboletas
             removerTodasBorboletas(); // Remove todas as borboletas existentes no mundo
 
